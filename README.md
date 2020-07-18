@@ -1,2 +1,2 @@
 # WebpageWordCount
-Quick implementation find the no of occurrences of a word in a number of web pages concurrently
+Quick implementation to concurrently load and find the number of occurrences of a word in webpage htmls
